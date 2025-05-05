@@ -16,3 +16,9 @@ Any dates included should be taken as advisory and aspirational, not as engineer
 ## Meetings
 
 Meeting agenda, schedules, and notes can be seen in the wiki for this repo.
+
+## Scope and Versioning
+
+Please see [Scope of Puppet Language Steering][1] for a very early draft/proposal for what the scope and tracking of Puppet standards/specifications might look like.
+
+[1]:scope.md
